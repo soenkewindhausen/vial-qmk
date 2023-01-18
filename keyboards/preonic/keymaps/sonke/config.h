@@ -53,6 +53,6 @@
 
 #pragma once
 #define VIAL_KEYBOARD_UID {0xBC, 0xFA, 0x5F, 0x10, 0xE9, 0x3D, 0xFE, 0x06}
-#define VIAL_UNLOCK_COMBO_ROWS { 0, 2 }
-#define VIAL_UNLOCK_COMBO_COLS { 0, 13 }
+#define VIAL_UNLOCK_COMBO_ROWS { 0, 0 }
+#define VIAL_UNLOCK_COMBO_COLS { 0, 1 }
 #define DOUBLE_TAP_SHIFT_TURNS_ON_CAPS_WORD
